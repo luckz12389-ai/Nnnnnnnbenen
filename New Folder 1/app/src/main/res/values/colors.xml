@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_background">#0B0B0E</color>
+    <color name="purple_primary">#7B1FA2</color>
+    <color name="purple_dark">#4A148C</color>
+    <color name="purple_light">#9C27B0</color>
+    <color name="accent_neon">#E040FB</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_card">#1E1E24</color>
+</resources>
